@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rohan&#39;s webpage on Lithium Theme Blog for Rohan</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Rohan&#39;s webpage on Lithium Theme Blog for Rohan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work</title>
+      <link>https://example.org/work/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/work/</guid>
+      <description>Here is a portfolio of my work!</description>
+    </item>
+    
+    <item>
+      <title>Textblob Classifier App</title>
+      <link>https://example.org/textblob-classifier-app/</link>
+      <pubDate>Sun, 21 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/textblob-classifier-app/</guid>
+      <description>Introduction Textblob. A Python library for natural language processing. A simple one—but one that spans many features. A while back, I was working on an extension project for my computer science class. The assignment itself consisted of working with strings—but we are allowed to create our own extensions. So I decided to build a political bias classifier that can classify sequences of text as either partisan or neutral. Without much NLP background behind me, I was fortunate enough to come across Textblob.</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://example.org/hello/</link>
+      <pubDate>Thu, 05 May 2016 21:49:57 -0700</pubDate>
+      
+      <guid>https://example.org/hello/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>Lorem ipsum dolor sit amet.</description>
+    </item>
+    
+  </channel>
+</rss>

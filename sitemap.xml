@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/work/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/textblob-classifier-app/</loc>
+    <lastmod>2021-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/hello/</loc>
+    <lastmod>2016-05-05T21:49:57-07:00</lastmod>
+  </url><url>
+    <loc>https://example.org/about/</loc>
+    <lastmod>2016-05-05T21:48:51-07:00</lastmod>
+  </url>
+</urlset>
